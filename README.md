@@ -1,7 +1,7 @@
 # Constellation
 This is a visualization designed for the Multisensory room at the NYU Dentistry Oral Health Center for People with Disabilities.
 
-## [Horoscope Constellation Data](constellationData.js) and [Other Famous Constellation Data](constellationDataTwo.js)
+## [Zodiac Constellation Data](constellationData.js) and [Other Famous Constellation Data](constellationDataTwo.js)
 This JS file contains an Object for storing constellation information. 
 
 * _Object Key_
